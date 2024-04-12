@@ -1,0 +1,78 @@
+[2024-04-12 15:59:35.324] [DISPLAY] [Main ] [sysinfo] OS Version: Major: 10 Minor: 0 Build: 17763 Service Pack: 
+[2024-04-12 15:59:35.376] [DISPLAY] [Main ] [main] Working directory: C:\Program Files\Rockstar Games\Launcher
+[2024-04-12 15:59:35.398] [DISPLAY] [Main ] [minmode] Running in min-mode to launch gta5
+[2024-04-12 15:59:35.398] [DISPLAY] [Main ] [minmode] Title Id: gta5
+[2024-04-12 15:59:35.398] [DISPLAY] [Main ] [minmode] Location: C:\Program Files\Rockstar Games\Grand Theft Auto V
+[2024-04-12 15:59:35.398] [DISPLAY] [Main ] [launcher] Opening log file.
+[2024-04-12 15:59:35.401] [DISPLAY] [Main ] [main] Command line: "C:\Program Files\Rockstar Games\Launcher\Launcher.exe" -skipPatcherCheck -minmodeApp=gta5  @args.txt
+[2024-04-12 15:59:35.401] [DISPLAY] [Main ] [main] P4 Version: 
+[2024-04-12 15:59:35.401] [DISPLAY] [Main ] [main] RGL Branch: release_02
+[2024-04-12 15:59:35.401] [DISPLAY] [Main ] [main] Version: 1.0.87.1898
+[2024-04-12 15:59:35.401] [DISPLAY] [Main ] [main] Parameters:
+[2024-04-12 15:59:35.401] [DISPLAY] [Main ] [main]     C:\Program Files\Rockstar Games\Launcher\Launcher.exe
+[2024-04-12 15:59:35.401] [DISPLAY] [Main ] [main]     -skipPatcherCheck
+[2024-04-12 15:59:35.401] [DISPLAY] [Main ] [main]     -minmodeApp=gta5
+[2024-04-12 15:59:35.401] [DISPLAY] [Main ] [main]     @args.txt
+[2024-04-12 15:59:35.433] [DISPLAY] [Main ] [titlemanager] Installed titles:
+[2024-04-12 15:59:35.433] [DISPLAY] [Main ] [titlemanager]  Title                             Progress               Version              Location                                                    
+[2024-04-12 15:59:35.433] [DISPLAY] [Main ] [titlemanager]  Grand Theft Auto V                Up-to-date             1.0.3095.0           C:\Program Files\Rockstar Games\Grand Theft Auto V          
+[2024-04-12 15:59:35.446] [DISPLAY] [Main ] [svc] Service version: 1.0.87.1898 (1.0.87.1898)
+[2024-04-12 15:59:35.520] [DISPLAY] [Main ] [fileutils] Version: 2.3.0.2 | 1.0.87.1898 | FFP
+[2024-04-12 15:59:35.546] [DISPLAY] [Workr] [selfupdate] Up-to-date.
+[2024-04-12 15:59:36.561] [DISPLAY] [bgsvc] [svc] Received response from service.
+[2024-04-12 15:59:37.005] [DISPLAY] [Main ] [systemtray] System tray: enabled
+[2024-04-12 15:59:37.007] [DISPLAY] [Main ] [launcher] Passed check: majorVersion(10.0.17763) >= 10
+[2024-04-12 15:59:37.026] [DISPLAY] [Workr] [idownloader] Starting download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/launcher_online_config.xml'
+[2024-04-12 15:59:37.212] [DISPLAY] [Workr] [idownloader] Completed download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/launcher_online_config.xml' (status: 0/200)
+[2024-04-12 15:59:37.212] [DISPLAY] [Workr] [titlemanager] Downloading title list...
+[2024-04-12 15:59:37.212] [DISPLAY] [Workr] [titlemanager] Downloading default title list (SCS)...
+[2024-04-12 15:59:37.212] [DISPLAY] [Workr] [idownloader] Starting download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/GetDefaultApps?accessToken='
+[2024-04-12 15:59:37.391] [DISPLAY] [Workr] [idownloader] Completed download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/GetDefaultApps?accessToken=' (status: 0/200)
+[2024-04-12 15:59:37.391] [DISPLAY] [Workr] [titlemanager] Title list updated.
+[2024-04-12 15:59:37.391] [DISPLAY] [Workr] [launcher] Checking for self-update...
+[2024-04-12 15:59:37.398] [DISPLAY] [Workr] [statuschecker] Title Rockstar Games Launcher: No update
+[2024-04-12 15:59:37.403] [DISPLAY] [Workr] [launcher] No self-update, continuing.
+[2024-04-12 15:59:37.403] [DISPLAY] [Workr] [launcher] Checking for prerequisite updates...
+[2024-04-12 15:59:37.409] [DISPLAY] [Workr] [preqmanager] The Social Club version available matches that currently installed (both: 2.3.0.2)
+[2024-04-12 15:59:37.409] [DISPLAY] [Workr] [titleupdater] No prerequisites to install.
+[2024-04-12 15:59:37.409] [DISPLAY] [Workr] [launcher] Checking minimum SDK requirement
+[2024-04-12 15:59:37.427] [DISPLAY] [Workr] [launcher] Completed Social Club Pre-initialization tasks
+[2024-04-12 15:59:38.413] [DISPLAY] [Main ] [launcher] Social Club UI has started.
+[2024-04-12 15:59:38.414] [DISPLAY] [Main ] [external] Notifying Social Club UI about external launch...
+[2024-04-12 15:59:38.414] [DISPLAY] [Admin] [external] Setting up RGL title...
+[2024-04-12 15:59:39.833] [DISPLAY] [Main ] [launcher] Time to start up: 4549 ms
+[2024-04-12 15:59:39.851] [DISPLAY] [Main ] [ui_mainwindow] Using DPI 96,96
+[2024-04-12 15:59:39.851] [DISPLAY] [Main ] [ui_mainwindow] Using UI Scale: 1.00
+[2024-04-12 15:59:39.851] [DISPLAY] [Main ] [ui_mainwindow] Using saved geometry: 454,76 (1232 x 600)
+[2024-04-12 15:59:39.910] [DISPLAY] [Main ] [systemtray] System tray: enabled
+[2024-04-12 15:59:52.598] [DISPLAY] [Main ] [launcher] Presence Event - Signed In
+[2024-04-12 15:59:52.598] [DISPLAY] [Main ] [launcher] User 'jmcdaniel83' is now signed in
+[2024-04-12 15:59:52.612] [DISPLAY] [Main ] [launcher] Presence Event :: Went Online
+[2024-04-12 15:59:52.612] [DISPLAY] [Main ] [external] Preparing to update/launch...
+[2024-04-12 15:59:52.613] [DISPLAY] [Admin] [titlemanager] Downloading title list...
+[2024-04-12 15:59:52.613] [DISPLAY] [Admin] [titlemanager] Downloading title list (SCS)...
+[2024-04-12 15:59:52.662] [DISPLAY] [Main ] [scuicallbacks] Enabling Downloading
+[2024-04-12 15:59:52.674] [DISPLAY] [Main ] [launcher] Friend Event - Friends are Available
+[2024-04-12 15:59:54.878] [DISPLAY] [Admin] [titlemanager] Title list updated.
+[2024-04-12 15:59:54.965] [DISPLAY] [Admin] [statuschecker] Title Grand Theft Auto V: No update
+[2024-04-12 15:59:54.965] [DISPLAY] [Admin] [external] No updates needed for title gta5.
+[2024-04-12 15:59:54.965] [DISPLAY] [Admin] [external] Ready to attempt a launch.
+[2024-04-12 15:59:55.241] [DISPLAY] [Main ] [scuicallbacks] Setting updated
+[2024-04-12 15:59:55.242] [DISPLAY] [Main ] [scuicallbacks] Launch requested
+[2024-04-12 15:59:55.242] [DISPLAY] [Main ] [scuicallbacks] Launch requested by user: gta5, 
+[2024-04-12 15:59:55.242] [DISPLAY] [Main ] [external] Attempting external title launch...
+[2024-04-12 15:59:55.260] [DISPLAY] [10276] [statuschecker] Title Grand Theft Auto V: No update
+[2024-04-12 15:59:55.260] [DISPLAY] [10276] [gamelaunch] RGL is up to date (current: 1.0.87.1898, minimum: 1.0.26.268)
+[2024-04-12 15:59:55.261] [DISPLAY] [10276] [gamelaunch] Grand Theft Auto V is up to date (current: 1.0.3095.0, minimum: 1.0.1868.0)
+[2024-04-12 16:00:06.944] [DISPLAY] [Main ] [cloudsaveop] Cloud Save sync requested for title 'gta5'
+[2024-04-12 16:00:06.961] [DISPLAY] [Main ] [cloudsaveop] Starting cloud save enabled check for title 'gta5'
+[2024-04-12 16:00:08.922] [DISPLAY] [Main ] [cloudsaveop] Received cloud saves enabled state for title 'gta5' = disabled
+[2024-04-12 16:00:08.922] [DISPLAY] [Main ] [cloudsaveop] Finished syncing cloud saves for title 'gta5'
+[2024-04-12 16:00:08.955] [DISPLAY] [net3 ] [audio] Valid Audio Device: false
+[2024-04-12 16:00:08.987] [ ERROR ] [Main ] [gla] Sound card check failed, cannot launch title
+[2024-04-12 16:00:09.020] [ ERROR ] [Main ] [gla] Canceled, not creating signin transfer
+[2024-04-12 16:00:09.137] [DISPLAY] [Workr] [statuschecker] Title Grand Theft Auto V: No update
+[2024-04-12 16:00:17.434] [DISPLAY] [Main ] [launcher] Shutdown requested! Forced: false
+[2024-04-12 16:00:17.434] [DISPLAY] [Main ] [launcher] StartShutdown - Now in progress
+[2024-04-12 16:00:26.798] [DISPLAY] [Main ] [app] Application quit requested (exit code: 0)
+[2024-04-12 16:00:26.840] [DISPLAY] [Main ] [svc] Stopping the background service.
